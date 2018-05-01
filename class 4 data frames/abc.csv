@@ -1,0 +1,6 @@
+"days","temp","rain"
+"Mon",22,TRUE
+"Tue",21,TRUE
+"Wed",23,FALSE
+"Thu",24.5,FALSE
+"Fri",25,TRUE
